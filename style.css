@@ -120,7 +120,7 @@ li {
 
 .menu--open .menu__backdrop {
     visibility: visible;
-    opacity: .6;
+    opacity: 1;
 }
 
 .menu--open {
