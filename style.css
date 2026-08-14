@@ -437,7 +437,7 @@ Small Phones, Tablets, Large Smartphones */
 
 @media (max-width: 768px) {
     .header__description {
-        padding; 0 24px;
+        padding: 0 24px;
     }
 
     h1 {
